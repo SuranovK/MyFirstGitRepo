@@ -1,0 +1,3 @@
+mac, windows,linux
+other os 
+ihpne x, samsung s9
